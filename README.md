@@ -4,7 +4,7 @@
 </div>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
@@ -17,3 +17,6 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carabalonepaulo&theme=nord&column=3&row=1" />
+</div>
