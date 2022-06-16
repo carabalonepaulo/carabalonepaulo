@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carabalonepaulo&theme=nord&column=3&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=carabalonepaulo&theme=darkhub&column=3&row=1&no-frame=true&margin-w=5" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=true&username=carabalonepaulo" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&username=carabalonepaulo" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&username=carabalonepaulo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=carabalonepaulo" height="150" alt="languages graph"  />
 </div>
 
 ###
